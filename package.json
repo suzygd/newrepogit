@@ -1,0 +1,23 @@
+{
+  "name": "newrepogit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "develop": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pbellon/newrepogit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pbellon/newrepogit/issues"
+  },
+  "homepage": "https://github.com/pbellon/newrepogit#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "twitter": "^1.7.1"
+  }
+}
